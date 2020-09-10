@@ -13,6 +13,12 @@
 <hr width="40%">
 <hr width="60%">
 <hr width="80%">
-<a style="display: flex; justify-content: center;" href="https://fb-clone-92241.web.app/">Live Demo</a>
+<a  href="https://fb-clone-92241.web.app/">Live Demo</a>
 <br>
 <img src="assets/capture.PNG"/>
+<style>
+    a{
+        display: flex; 
+        justify-content: center;
+    }
+</style>
