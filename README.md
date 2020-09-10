@@ -14,11 +14,5 @@
 <hr width="60%">
 <hr width="80%">
 <a  href="https://fb-clone-92241.web.app/">Live Demo</a>
-<br>
+<hr>
 <img src="assets/capture.PNG"/>
-<style>
-    a{
-        display: flex; 
-        justify-content: center;
-    }
-</style>
